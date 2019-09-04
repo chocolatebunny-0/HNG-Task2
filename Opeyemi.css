@@ -1,0 +1,18 @@
+body {
+    background-color: #FFFFFF;
+   }
+
+.content {
+    padding: 40px;
+    height: 300px;
+    width: 700px;
+    margin: 0 auto;
+}   
+
+h1 {
+    color: #202020;
+}
+
+h2 {
+    color: mediumseagreen;
+}
